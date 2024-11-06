@@ -43,7 +43,7 @@ div {
 }
   
 div:hover button {
-  transform: rotate(200deg);
+  transform: rotate(-360deg);
 }
   
 div:active button {
